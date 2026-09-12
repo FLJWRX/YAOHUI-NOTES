@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dab554b57720b450",
+        "id": "1f67a846ed8bda21",
         "type": "tabs",
         "children": [
           {
-            "id": "49901873c7855c80",
+            "id": "31bbf78825b7057b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,10 +188,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "49901873c7855c80",
+  "active": "31bbf78825b7057b",
   "lastOpenFiles": [
+    "欢迎.md",
     "MIT 5.60 Thermodynamics & Kinetics, Spring 2008/Lec 01.md",
-    "MIT 5.60 Thermodynamics & Kinetics, Spring 2008",
-    "欢迎.md"
+    "生活指南/卤水维护指南.md",
+    "生活指南",
+    "MIT 5.60 Thermodynamics & Kinetics, Spring 2008"
   ]
 }
