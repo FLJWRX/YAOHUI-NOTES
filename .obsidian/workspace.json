@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活指南/卤水维护指南.md",
+                "file": "MIT 5.60 Thermodynamics & Kinetics, Spring 2008/Lec 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卤水维护指南"
+              "title": "Lec 01"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 200
   },
   "right": {
     "id": "25fb60b743133b7f",
